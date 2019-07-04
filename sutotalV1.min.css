@@ -82,3 +82,8 @@
     table.pvtTable tr .colhide {
         display: none;
     }
+th.pvtRowLabel.rowcol5.rowexpanded.rowshow {
+	    display: inline-block;
+    		width: 89px;
+	    overflow: hidden;
+}
